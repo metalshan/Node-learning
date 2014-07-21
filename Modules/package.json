@@ -1,0 +1,11 @@
+{
+  "name": "Modules",
+  "version": "0.0.0",
+  "description": "Just the first test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Shan <go2mailshan@gmail.com>",
+  "license": "MIT"
+}
